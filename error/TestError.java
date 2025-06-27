@@ -5,7 +5,10 @@ public class TestError {
         // 2. Runtime error
         System.out.println(5);
 
-        // 3. Logical Error
+     // 3. Logical Error
         System.out.println(4.0/10); 
     }
+   
 }
+// 3. Logical Error
+        git 
